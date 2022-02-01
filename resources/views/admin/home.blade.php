@@ -14,7 +14,7 @@
 
                 <div class="card-body">
 
-                    You are a normal user.
+                    You are an Admin.
 
                 </div>
 
